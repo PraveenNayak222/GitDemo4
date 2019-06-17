@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is DE89-BF5C
-
- Directory of C:\Users\Praveen\Desktop\GitDemo3
-
-17-06-2019  16:34    <DIR>          .
-17-06-2019  16:34    <DIR>          ..
-17-06-2019  16:34                 0 new.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  10,027,642,880 bytes free
+HI
